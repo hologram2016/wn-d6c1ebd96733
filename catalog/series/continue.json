@@ -1,0 +1,28 @@
+{
+  "metas": [
+    {
+      "id": "tt4129004",
+      "type": "series",
+      "name": "School of Rock",
+      "poster": "https://aiometadatafortheweebs.midnightignite.me/poster/series/tt4129004?fallback=https%3A%2F%2Fartworks.thetvdb.com%2Fbanners%2Fposters%2F308720-2.jpg&lang=en-US&key=t0-free-rpdb",
+      "posterShape": "poster",
+      "description": "In your Stremio library \u2014 pick this up again."
+    },
+    {
+      "id": "tt1199099",
+      "type": "series",
+      "name": "Merlin",
+      "poster": "https://aiometadatafortheweebs.midnightignite.me/poster/series/tt1199099?fallback=https%3A%2F%2Fartworks.thetvdb.com%2Fbanners%2Fposters%2F83123-7.jpg&lang=en-US&key=t0-free-rpdb",
+      "posterShape": "poster",
+      "description": "In your Stremio library \u2014 pick this up again."
+    },
+    {
+      "id": "tt2741602",
+      "type": "series",
+      "name": "The Blacklist",
+      "poster": "https://aiometadatafortheweebs.midnightignite.me/poster/series/tt2741602?fallback=https%3A%2F%2Fartworks.thetvdb.com%2Fbanners%2Fposters%2F6401e88074c96.jpg&lang=en-US&key=t0-free-rpdb",
+      "posterShape": "poster",
+      "description": "In your Stremio library \u2014 pick this up again."
+    }
+  ]
+}
