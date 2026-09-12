@@ -1,0 +1,48 @@
+{
+  "id": "com.marina.watchnext",
+  "version": "1.4.0",
+  "name": "Watch next",
+  "description": "Personal Watch next catalogs from your Stremio watch history.",
+  "resources": [
+    "catalog"
+  ],
+  "types": [
+    "movie",
+    "series"
+  ],
+  "idPrefixes": [
+    "tt"
+  ],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "watchnext",
+      "name": "Watch next",
+      "extra": [
+        {
+          "name": "skip"
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "id": "watchnext",
+      "name": "Watch next",
+      "extra": [
+        {
+          "name": "skip"
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "id": "continue",
+      "name": "Continue watching",
+      "extra": [
+        {
+          "name": "skip"
+        }
+      ]
+    }
+  ]
+}
