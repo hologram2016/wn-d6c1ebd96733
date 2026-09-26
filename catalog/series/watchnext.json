@@ -1,0 +1,460 @@
+{
+  "metas": [
+    {
+      "id": "tt5071412",
+      "type": "series",
+      "name": "Ozark",
+      "poster": "https://images.metahub.space/poster/medium/tt5071412/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt1312171",
+      "type": "series",
+      "name": "The Umbrella Academy",
+      "poster": "https://images.metahub.space/poster/medium/tt1312171/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt2442560",
+      "type": "series",
+      "name": "Peaky Blinders",
+      "poster": "https://images.metahub.space/poster/medium/tt2442560/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt8910922",
+      "type": "series",
+      "name": "Solar Opposites",
+      "poster": "https://images.metahub.space/poster/medium/tt8910922/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt0903747",
+      "type": "series",
+      "name": "Breaking Bad",
+      "poster": "https://images.metahub.space/poster/medium/tt0903747/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt0773262",
+      "type": "series",
+      "name": "Dexter",
+      "poster": "https://images.metahub.space/poster/medium/tt0773262/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt2802850",
+      "type": "series",
+      "name": "Fargo",
+      "poster": "https://images.metahub.space/poster/medium/tt2802850/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt1486217",
+      "type": "series",
+      "name": "Archer",
+      "poster": "https://images.metahub.space/poster/medium/tt1486217/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt6741278",
+      "type": "series",
+      "name": "Invincible",
+      "poster": "https://images.metahub.space/poster/medium/tt6741278/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt0149460",
+      "type": "series",
+      "name": "Futurama",
+      "poster": "https://images.metahub.space/poster/medium/tt0149460/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt16026746",
+      "type": "series",
+      "name": "X-Men '97",
+      "poster": "https://images.metahub.space/poster/medium/tt16026746/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt0944947",
+      "type": "series",
+      "name": "Game of Thrones",
+      "poster": "https://images.metahub.space/poster/medium/tt0944947/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt4574334",
+      "type": "series",
+      "name": "Stranger Things",
+      "poster": "https://images.metahub.space/poster/medium/tt4574334/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt13146488",
+      "type": "series",
+      "name": "Peacemaker",
+      "poster": "https://images.metahub.space/poster/medium/tt13146488/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt16418808",
+      "type": "series",
+      "name": "Sugar",
+      "poster": "https://images.metahub.space/poster/small/tt16418808/img",
+      "posterShape": "poster",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "imdbRating": "7.4",
+      "description": "Private detective John Sugar investigates the disappearance of Olivia, the beloved granddaughter of Hollywood producer Jonathan Siegel. As Sugar tries to determine what happened to Olivia, he unearths Siegel family secrets, old an...",
+      "releaseInfo": "2024\u2013"
+    },
+    {
+      "id": "tt30460310",
+      "type": "series",
+      "name": "Spider-Noir",
+      "poster": "https://images.metahub.space/poster/small/tt30460310/img",
+      "posterShape": "poster",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Crime"
+      ],
+      "imdbRating": "7.8",
+      "description": "Ben Reilly, a seasoned, down-on-his-luck private investigator in 1930s New York, is forced to grapple with his past life, following a deeply personal tragedy, as the city's one and only superhero.",
+      "releaseInfo": "2026\u2013"
+    },
+    {
+      "id": "tt10293938",
+      "type": "series",
+      "name": "Outer Banks",
+      "poster": "https://images.metahub.space/poster/small/tt10293938/img",
+      "posterShape": "poster",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Crime"
+      ],
+      "imdbRating": "7.5",
+      "description": "On North Carolina's Outer Banks, a tight-knit group of working-class teenagers known as the Pogues embark on dangerous treasure hunts, uncovering buried secrets, family mysteries, romance, and rivalries while fighting to stay toge...",
+      "releaseInfo": "2020\u20132026"
+    },
+    {
+      "id": "tt11198330",
+      "type": "series",
+      "name": "House of the Dragon",
+      "poster": "https://images.metahub.space/poster/medium/tt11198330/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt13159924",
+      "type": "series",
+      "name": "Gen V",
+      "poster": "https://images.metahub.space/poster/medium/tt13159924/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt33539520",
+      "type": "series",
+      "name": "Neagley",
+      "poster": "https://images.metahub.space/poster/small/tt33539520/img",
+      "posterShape": "poster",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "imdbRating": "",
+      "description": "Neagley, drawing from her experience with Jack Reacher and the 110 Special Investigators, embarks on a perilous mission to expose a sinister threat, risking her life to unravel the mystery.",
+      "releaseInfo": "2026\u2013"
+    },
+    {
+      "id": "tt0200276",
+      "type": "series",
+      "name": "The West Wing",
+      "poster": "https://images.metahub.space/poster/medium/tt0200276/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt3107288",
+      "type": "series",
+      "name": "The Flash (2014)",
+      "poster": "https://images.metahub.space/poster/medium/tt3107288/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt1043813",
+      "type": "series",
+      "name": "Titans (2018)",
+      "poster": "https://images.metahub.space/poster/medium/tt1043813/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt8416494",
+      "type": "series",
+      "name": "Doom Patrol",
+      "poster": "https://images.metahub.space/poster/medium/tt8416494/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt0279600",
+      "type": "series",
+      "name": "Smallville",
+      "poster": "https://images.metahub.space/poster/medium/tt0279600/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt2193021",
+      "type": "series",
+      "name": "Arrow",
+      "poster": "https://images.metahub.space/poster/medium/tt2193021/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt3749900",
+      "type": "series",
+      "name": "Gotham",
+      "poster": "https://images.metahub.space/poster/medium/tt3749900/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt2149175",
+      "type": "series",
+      "name": "The Americans (2013)",
+      "poster": "https://images.metahub.space/poster/medium/tt2149175/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt10234724",
+      "type": "series",
+      "name": "Moon Knight",
+      "poster": "https://images.metahub.space/poster/medium/tt10234724/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt1399664",
+      "type": "series",
+      "name": "The Night Manager",
+      "poster": "https://images.metahub.space/poster/medium/tt1399664/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt1358522",
+      "type": "series",
+      "name": "White Collar",
+      "poster": "https://images.metahub.space/poster/medium/tt1358522/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt0452046",
+      "type": "series",
+      "name": "Criminal Minds",
+      "poster": "https://images.metahub.space/poster/medium/tt0452046/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt7491982",
+      "type": "series",
+      "name": "FBI",
+      "poster": "https://images.metahub.space/poster/medium/tt7491982/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt11192306",
+      "type": "series",
+      "name": "Superman & Lois",
+      "poster": "https://images.metahub.space/poster/medium/tt11192306/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt5114356",
+      "type": "series",
+      "name": "Legion",
+      "poster": "https://images.metahub.space/poster/medium/tt5114356/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt2357547",
+      "type": "series",
+      "name": "Marvel's Jessica Jones",
+      "poster": "https://images.metahub.space/poster/medium/tt2357547/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt9140554",
+      "type": "series",
+      "name": "Loki",
+      "poster": "https://images.metahub.space/poster/medium/tt9140554/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt2191671",
+      "type": "series",
+      "name": "Elementary",
+      "poster": "https://images.metahub.space/poster/medium/tt2191671/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt0460627",
+      "type": "series",
+      "name": "Bones",
+      "poster": "https://images.metahub.space/poster/medium/tt0460627/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt1796960",
+      "type": "series",
+      "name": "Homeland",
+      "poster": "https://images.metahub.space/poster/medium/tt1796960/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    }
+  ]
+}
