@@ -1,0 +1,544 @@
+{
+  "metas": [
+    {
+      "id": "tt2442560",
+      "type": "series",
+      "name": "Peaky Blinders",
+      "poster": "https://images.metahub.space/poster/medium/tt2442560/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt0903747",
+      "type": "series",
+      "name": "Breaking Bad",
+      "poster": "https://images.metahub.space/poster/medium/tt0903747/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt0773262",
+      "type": "series",
+      "name": "Dexter",
+      "poster": "https://images.metahub.space/poster/medium/tt0773262/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt2802850",
+      "type": "series",
+      "name": "Fargo",
+      "poster": "https://images.metahub.space/poster/medium/tt2802850/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt5071412",
+      "type": "series",
+      "name": "Ozark",
+      "poster": "https://images.metahub.space/poster/medium/tt5071412/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt0149460",
+      "type": "series",
+      "name": "Futurama",
+      "poster": "https://images.metahub.space/poster/medium/tt0149460/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt1312171",
+      "type": "series",
+      "name": "The Umbrella Academy",
+      "poster": "https://images.metahub.space/poster/medium/tt1312171/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt6741278",
+      "type": "series",
+      "name": "Invincible",
+      "poster": "https://images.metahub.space/poster/medium/tt6741278/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt8910922",
+      "type": "series",
+      "name": "Solar Opposites",
+      "poster": "https://images.metahub.space/poster/medium/tt8910922/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt37063558",
+      "type": "series",
+      "name": "R.J. Decker",
+      "poster": "https://images.metahub.space/poster/small/tt37063558/img",
+      "posterShape": "poster",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Crime"
+      ],
+      "imdbRating": "7.1",
+      "description": "Ex-con photographer RJ Decker becomes a PI in South Florida, solving strange cases with help from his journalist ex, her cop wife, and an enigmatic woman from his past who may help or destroy him.",
+      "releaseInfo": "2026\u2013"
+    },
+    {
+      "id": "tt11198330",
+      "type": "series",
+      "name": "House of the Dragon",
+      "poster": "https://images.metahub.space/poster/medium/tt11198330/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt1486217",
+      "type": "series",
+      "name": "Archer",
+      "poster": "https://images.metahub.space/poster/medium/tt1486217/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt13159924",
+      "type": "series",
+      "name": "Gen V",
+      "poster": "https://images.metahub.space/poster/medium/tt13159924/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt30460310",
+      "type": "series",
+      "name": "Spider-Noir",
+      "poster": "https://images.metahub.space/poster/small/tt30460310/img",
+      "posterShape": "poster",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Crime"
+      ],
+      "imdbRating": "7.8",
+      "description": "Ben Reilly, a seasoned, down-on-his-luck private investigator in 1930s New York, is forced to grapple with his past life, following a deeply personal tragedy, as the city's one and only superhero.",
+      "releaseInfo": "2026\u2013"
+    },
+    {
+      "id": "tt10293938",
+      "type": "series",
+      "name": "Outer Banks",
+      "poster": "https://images.metahub.space/poster/small/tt10293938/img",
+      "posterShape": "poster",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Crime"
+      ],
+      "imdbRating": "7.5",
+      "description": "On North Carolina's Outer Banks, a tight-knit group of working-class teenagers known as the Pogues embark on dangerous treasure hunts, uncovering buried secrets, family mysteries, romance, and rivalries while fighting to stay toge...",
+      "releaseInfo": "2020\u20132026"
+    },
+    {
+      "id": "tt0200276",
+      "type": "series",
+      "name": "The West Wing",
+      "poster": "https://images.metahub.space/poster/medium/tt0200276/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt9288030",
+      "type": "series",
+      "name": "Reacher",
+      "poster": "https://images.metahub.space/poster/small/tt9288030/img",
+      "posterShape": "poster",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "imdbRating": "8.0",
+      "description": "Itinerant former military policeman Jack Reacher solves crimes and metes out his own brand of street justice. Based on the novels by Lee Child.",
+      "releaseInfo": "2022\u2013"
+    },
+    {
+      "id": "tt16418808",
+      "type": "series",
+      "name": "Sugar",
+      "poster": "https://images.metahub.space/poster/small/tt16418808/img",
+      "posterShape": "poster",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "imdbRating": "7.4",
+      "description": "Private detective John Sugar investigates the disappearance of Olivia, the beloved granddaughter of Hollywood producer Jonathan Siegel. As Sugar tries to determine what happened to Olivia, he unearths Siegel family secrets, old an...",
+      "releaseInfo": "2024\u2013"
+    },
+    {
+      "id": "tt33539520",
+      "type": "series",
+      "name": "Neagley",
+      "poster": "https://images.metahub.space/poster/small/tt33539520/img",
+      "posterShape": "poster",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "imdbRating": "",
+      "description": "Neagley, drawing from her experience with Jack Reacher and the 110 Special Investigators, embarks on a perilous mission to expose a sinister threat, risking her life to unravel the mystery.",
+      "releaseInfo": "2026\u2013"
+    },
+    {
+      "id": "tt18546730",
+      "type": "series",
+      "name": "The Walking Dead: Dead City",
+      "poster": "https://images.metahub.space/poster/small/tt18546730/img",
+      "posterShape": "poster",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "imdbRating": "7.0",
+      "description": "Maggie and Negan travel into a post-apocalyptic Manhattan long ago cut off from the mainland. The city is filled with the dead and denizens who have made New York City their own world.",
+      "releaseInfo": "2023\u2013"
+    },
+    {
+      "id": "tt1119644",
+      "type": "series",
+      "name": "Fringe",
+      "poster": "https://images.metahub.space/poster/medium/tt1119644/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt27846061",
+      "type": "series",
+      "name": "Ludwig",
+      "poster": "https://images.metahub.space/poster/small/tt27846061/img",
+      "posterShape": "poster",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Drama"
+      ],
+      "imdbRating": "8.1",
+      "description": "While seeking to unravel the mystery of his twin brother's disappearance, reclusive puzzle-designer John 'Ludwig' Taylor takes on his twin brother James's identity as DCI on Cambridge's major crimes squad.",
+      "releaseInfo": "2024\u2013"
+    },
+    {
+      "id": "tt30494226",
+      "type": "series",
+      "name": "Ride or Die",
+      "poster": "https://images.metahub.space/poster/small/tt30494226/img",
+      "posterShape": "poster",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "imdbRating": "",
+      "description": "Two best friends, Judith and Debbie, discover Judith is secretly an assassin. After a hit goes wrong, they go on the run while being targeted by a mysterious enemy, forcing them to confront the secrets between them.",
+      "releaseInfo": "2026\u2013"
+    },
+    {
+      "id": "tt12327578",
+      "type": "series",
+      "name": "Star Trek: Strange New Worlds",
+      "poster": "https://images.metahub.space/poster/small/tt12327578/img",
+      "posterShape": "poster",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "imdbRating": "8.2",
+      "description": "A prequel to Star Trek (1966), this series follows the crew of the USS Enterprise under the command of Captain Christopher Pike.",
+      "releaseInfo": "2022\u20132027"
+    },
+    {
+      "id": "tt20883126",
+      "type": "series",
+      "name": "Red Queen",
+      "poster": "https://images.metahub.space/poster/small/tt20883126/img",
+      "posterShape": "poster",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "imdbRating": "6.8",
+      "description": "A gifted woman's intellect brings chance to lead covert European police force. But it backfires, costing her everything. Following murder at her home and kidnapped heiress, her ex-supervisor enlists a policeman's aid to reinstate ...",
+      "releaseInfo": "2024\u20132025"
+    },
+    {
+      "id": "tt4565380",
+      "type": "series",
+      "name": "Fauda",
+      "poster": "https://images.metahub.space/poster/small/tt4565380/img",
+      "posterShape": "poster",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "imdbRating": "8.3",
+      "description": "The human stories on both sides of the Israel-Palestine conflict.",
+      "releaseInfo": "2015\u2013"
+    },
+    {
+      "id": "tt18923754",
+      "type": "series",
+      "name": "Daredevil: Born Again",
+      "poster": "https://images.metahub.space/poster/small/tt18923754/img",
+      "posterShape": "poster",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "imdbRating": "8.1",
+      "description": "Matt Murdock finds himself on a collision course with Wilson Fisk when their past identities begin to emerge.",
+      "releaseInfo": "2025\u2013"
+    },
+    {
+      "id": "tt27054614",
+      "type": "series",
+      "name": "Crooks",
+      "poster": "https://images.metahub.space/poster/small/tt27054614/img",
+      "posterShape": "poster",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "imdbRating": "7.0",
+      "description": "Charly's quiet life with family in Berlin disrupted when past associates threaten them, forcing him to steal coin. Charly and driver Joseph, fatefully collided, now flee with family to escape danger.",
+      "releaseInfo": "2024\u2013"
+    },
+    {
+      "id": "tt11958610",
+      "type": "series",
+      "name": "Trigger Point",
+      "poster": "https://images.metahub.space/poster/small/tt11958610/img",
+      "posterShape": "poster",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "imdbRating": "6.7",
+      "description": "Drama series following Lana Washington, an experienced bomb disposal officer working for the Metropolitan Police.",
+      "releaseInfo": "2022\u2013"
+    },
+    {
+      "id": "tt36022742",
+      "type": "series",
+      "name": "Nemesis",
+      "poster": "https://images.metahub.space/poster/small/tt36022742/img",
+      "posterShape": "poster",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "imdbRating": "5.6",
+      "description": "LA crime drama pits master thief Coltrane Wilder against detective Isaiah Stiles, challenging heist genre norms while examining what drives, sustains, and destroys people.",
+      "releaseInfo": "2026\u2013"
+    },
+    {
+      "id": "tt20285780",
+      "type": "series",
+      "name": "The Artful Dodger",
+      "poster": "https://images.metahub.space/poster/small/tt20285780/img",
+      "posterShape": "poster",
+      "genres": [
+        "Adventure",
+        "Crime",
+        "Drama"
+      ],
+      "imdbRating": "8.0",
+      "description": "In 1850s Australia, the past of Jack Dawkins, a former pickpocket who has become a surgeon, resurfaces when an old acquaintance, Fagin, arrives and lures him back into a life of crime.",
+      "releaseInfo": "2023\u2013"
+    },
+    {
+      "id": "tt8599532",
+      "type": "series",
+      "name": "Young Sherlock",
+      "poster": "https://images.metahub.space/poster/small/tt8599532/img",
+      "posterShape": "poster",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "imdbRating": "7.5",
+      "description": "A disgraced, young Sherlock Holmes finds himself wrapped up in a murder case that threatens his liberty. His first ever case unravels a globe-trotting conspiracy, culminating in an explosive showdown that changes his life forever.",
+      "releaseInfo": "2026\u2013"
+    },
+    {
+      "id": "tt8622160",
+      "type": "series",
+      "name": "Star Trek: Starfleet Academy",
+      "poster": "https://images.metahub.space/poster/small/tt8622160/img",
+      "posterShape": "poster",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "imdbRating": "4.5",
+      "description": "Young cadets train to become Starfleet officers as they deal with friendships, rivalries, and romance, all while facing a mysterious threat to both the Academy and the Federation.",
+      "releaseInfo": "2026\u20132027"
+    },
+    {
+      "id": "tt5180504",
+      "type": "series",
+      "name": "The Witcher",
+      "poster": "https://images.metahub.space/poster/medium/tt5180504/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt11737520",
+      "type": "series",
+      "name": "One Piece",
+      "poster": "https://images.metahub.space/poster/small/tt11737520/img",
+      "posterShape": "poster",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "imdbRating": "8.3",
+      "description": "With his straw hat and ragtag crew, young pirate Monkey D. Luffy goes on an epic voyage for treasure.",
+      "releaseInfo": "2023\u2013"
+    },
+    {
+      "id": "tt34440854",
+      "type": "series",
+      "name": "The Wonderfools",
+      "poster": "https://images.metahub.space/poster/small/tt34440854/img",
+      "posterShape": "poster",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "imdbRating": "7.9",
+      "description": "A group of awkward townies who unexpectedly gain superpowers and fight villains threatening the peace of Haeseong city.",
+      "releaseInfo": "2026\u2013"
+    },
+    {
+      "id": "tt26591110",
+      "type": "series",
+      "name": "Elsbeth",
+      "poster": "https://images.metahub.space/poster/small/tt26591110/img",
+      "posterShape": "poster",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Drama"
+      ],
+      "imdbRating": "7.5",
+      "description": "Astute but unconventional attorney Elsbeth Tascioni utilizes her singular point of view to make unique observations and corner brilliant criminals alongside the NYPD.",
+      "releaseInfo": "2024\u2013"
+    },
+    {
+      "id": "tt0096563",
+      "type": "series",
+      "name": "Cops",
+      "poster": "https://images.metahub.space/poster/small/tt0096563/img",
+      "posterShape": "poster",
+      "genres": [
+        "Action",
+        "Crime",
+        "Reality-TV"
+      ],
+      "imdbRating": "6.9",
+      "description": "Camera crews follow police officers while they work.",
+      "releaseInfo": "1989\u20132025"
+    },
+    {
+      "id": "tt14681596",
+      "type": "series",
+      "name": "Batman: Caped Crusader",
+      "poster": "https://images.metahub.space/poster/small/tt14681596/img",
+      "posterShape": "poster",
+      "genres": [
+        "Animation",
+        "Action",
+        "Crime"
+      ],
+      "imdbRating": "7.2",
+      "description": "After a family tragedy, affluent philanthropist Bruce Wayne transforms into The Batman, where his crusade for justice spawns unforeseen ramifications.",
+      "releaseInfo": "2024\u2013"
+    },
+    {
+      "id": "tt11846996",
+      "type": "series",
+      "name": "Vigil",
+      "poster": "https://images.metahub.space/poster/small/tt11846996/img",
+      "posterShape": "poster",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "imdbRating": "7.4",
+      "description": "The mysterious disappearance of a Scottish fishing trawler and a death onboard a Trident nuclear submarine bring the police into conflict with the Navy and British security services.",
+      "releaseInfo": "2021\u2013"
+    }
+  ]
+}
