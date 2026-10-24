@@ -1,0 +1,496 @@
+{
+  "metas": [
+    {
+      "id": "tt2802850",
+      "type": "series",
+      "name": "Fargo",
+      "poster": "https://images.metahub.space/poster/medium/tt2802850/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt1312171",
+      "type": "series",
+      "name": "The Umbrella Academy",
+      "poster": "https://images.metahub.space/poster/medium/tt1312171/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt1119644",
+      "type": "series",
+      "name": "Fringe",
+      "poster": "https://images.metahub.space/poster/medium/tt1119644/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt0149460",
+      "type": "series",
+      "name": "Futurama",
+      "poster": "https://images.metahub.space/poster/medium/tt0149460/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt33539520",
+      "type": "series",
+      "name": "Neagley",
+      "poster": "https://images.metahub.space/poster/small/tt33539520/img",
+      "posterShape": "poster",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "imdbRating": "7.7",
+      "description": "Neagley, drawing from her experience with Jack Reacher and the 110 Special Investigators, embarks on a perilous mission to expose a sinister threat, risking her life to unravel the mystery.",
+      "releaseInfo": "2026\u2013"
+    },
+    {
+      "id": "tt2442560",
+      "type": "series",
+      "name": "Peaky Blinders",
+      "poster": "https://images.metahub.space/poster/medium/tt2442560/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt0903747",
+      "type": "series",
+      "name": "Breaking Bad",
+      "poster": "https://images.metahub.space/poster/medium/tt0903747/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt0773262",
+      "type": "series",
+      "name": "Dexter",
+      "poster": "https://images.metahub.space/poster/medium/tt0773262/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt5071412",
+      "type": "series",
+      "name": "Ozark",
+      "poster": "https://images.metahub.space/poster/medium/tt5071412/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt1844624",
+      "type": "series",
+      "name": "American Horror Story",
+      "poster": "https://images.metahub.space/poster/medium/tt1844624/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt22091076",
+      "type": "series",
+      "name": "High Potential",
+      "poster": "https://images.metahub.space/poster/medium/tt22091076/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt20883126",
+      "type": "series",
+      "name": "Red Queen",
+      "poster": "https://images.metahub.space/poster/small/tt20883126/img",
+      "posterShape": "poster",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "imdbRating": "6.8",
+      "description": "A gifted woman's intellect brings chance to lead covert European police force. But it backfires, costing her everything. Following murder at her home and kidnapped heiress, her ex-supervisor enlists a policeman's aid to reinstate ...",
+      "releaseInfo": "2024\u20132027"
+    },
+    {
+      "id": "tt21057450",
+      "type": "series",
+      "name": "School Spirits (2023)",
+      "poster": "https://images.metahub.space/poster/medium/tt21057450/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt6741278",
+      "type": "series",
+      "name": "Invincible",
+      "poster": "https://images.metahub.space/poster/medium/tt6741278/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt30460310",
+      "type": "series",
+      "name": "Spider-Noir",
+      "poster": "https://images.metahub.space/poster/small/tt30460310/img",
+      "posterShape": "poster",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Crime"
+      ],
+      "imdbRating": "7.6",
+      "description": "Ben Reilly, a seasoned, down-on-his-luck private investigator in 1930s New York, is forced to grapple with his past life, following a deeply personal tragedy, as the city's one and only superhero.",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt10293938",
+      "type": "series",
+      "name": "Outer Banks",
+      "poster": "https://images.metahub.space/poster/small/tt10293938/img",
+      "posterShape": "poster",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Crime"
+      ],
+      "imdbRating": "7.5",
+      "description": "On North Carolina's Outer Banks, a tight-knit group of working-class teenagers known as the Pogues embark on dangerous treasure hunts, uncovering buried secrets, family mysteries, romance, and rivalries while fighting to stay toge...",
+      "releaseInfo": "2020\u20132026"
+    },
+    {
+      "id": "tt4574334",
+      "type": "series",
+      "name": "Stranger Things",
+      "poster": "https://images.metahub.space/poster/medium/tt4574334/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt9288030",
+      "type": "series",
+      "name": "Reacher",
+      "poster": "https://images.metahub.space/poster/small/tt9288030/img",
+      "posterShape": "poster",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "imdbRating": "8.0",
+      "description": "Itinerant former military policeman Jack Reacher solves crimes and metes out his own brand of street justice. Based on the novels by Lee Child.",
+      "releaseInfo": "2022\u2013"
+    },
+    {
+      "id": "tt16358384",
+      "type": "series",
+      "name": "Tulsa King",
+      "poster": "https://images.metahub.space/poster/small/tt16358384/img",
+      "posterShape": "poster",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "imdbRating": "7.9",
+      "description": "After being released from prison after 25 years, New York Mafia capo Dwight \"The General\" Manfredi is exiled to Tulsa, Oklahoma.",
+      "releaseInfo": "2022\u2013"
+    },
+    {
+      "id": "tt16418808",
+      "type": "series",
+      "name": "Sugar",
+      "poster": "https://images.metahub.space/poster/small/tt16418808/img",
+      "posterShape": "poster",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "imdbRating": "7.4",
+      "description": "John Sugar is a dashing private eye navigating the dark corners of sunny LA. Though he sees only the good in humanity, Sugar is haunted by a secret too dangerous to expose.",
+      "releaseInfo": "2024\u2013"
+    },
+    {
+      "id": "tt11958610",
+      "type": "series",
+      "name": "Trigger Point",
+      "poster": "https://images.metahub.space/poster/small/tt11958610/img",
+      "posterShape": "poster",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "imdbRating": "6.8",
+      "description": "Drama series following Lana Washington, an experienced bomb disposal officer working for the Metropolitan Police.",
+      "releaseInfo": "2022\u2013"
+    },
+    {
+      "id": "tt13159924",
+      "type": "series",
+      "name": "Gen V",
+      "poster": "https://images.metahub.space/poster/medium/tt13159924/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt36104233",
+      "type": "series",
+      "name": "If Wishes Could Kill",
+      "poster": "https://images.metahub.space/poster/medium/tt36104233/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt18546730",
+      "type": "series",
+      "name": "The Walking Dead: Dead City",
+      "poster": "https://images.metahub.space/poster/small/tt18546730/img",
+      "posterShape": "poster",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "imdbRating": "7.0",
+      "description": "Maggie and Negan travel into a post-apocalyptic Manhattan long ago cut off from the mainland. The city is filled with the dead and denizens who have made New York City their own world.",
+      "releaseInfo": "2023\u2013"
+    },
+    {
+      "id": "tt0098844",
+      "type": "series",
+      "name": "Law & Order",
+      "poster": "https://images.metahub.space/poster/small/tt0098844/img",
+      "posterShape": "poster",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "imdbRating": "7.8",
+      "description": "A two-part drama that focuses on the New York criminal-justice system by showing a violent crime investigated by police detectives in the first half and then the trial of the accused in court by prosecutors in the second half.",
+      "releaseInfo": "1990\u2013"
+    },
+    {
+      "id": "tt11846996",
+      "type": "series",
+      "name": "Vigil",
+      "poster": "https://images.metahub.space/poster/small/tt11846996/img",
+      "posterShape": "poster",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "imdbRating": "7.4",
+      "description": "The mysterious disappearance of a Scottish fishing trawler and a death onboard a Trident nuclear submarine bring the police into conflict with the Navy and British security services.",
+      "releaseInfo": "2021\u2013"
+    },
+    {
+      "id": "tt20516590",
+      "type": "series",
+      "name": "Women in Blue",
+      "poster": "https://images.metahub.space/poster/small/tt20516590/img",
+      "posterShape": "poster",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "imdbRating": "7.3",
+      "description": "In 1971, four women defy convention and join Mexico's first female police force, only to discover it's a publicity stunt to distract the media from a serial killer. As the body count grows, they make a pact to bring the killer to ...",
+      "releaseInfo": "2024\u20132026"
+    },
+    {
+      "id": "tt32066226",
+      "type": "series",
+      "name": "Bookish",
+      "poster": "https://images.metahub.space/poster/small/tt32066226/img",
+      "posterShape": "poster",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "imdbRating": "6.9",
+      "description": "Gabriel Book, proprietor of an antiquarian bookshop, relies on his vast collection to unravel baffling cases. He nurtures a group of lovable yet troubled individuals, providing informal protection and guidance.",
+      "releaseInfo": "2025\u2013"
+    },
+    {
+      "id": "tt2357547",
+      "type": "series",
+      "name": "Marvel's Jessica Jones",
+      "poster": "https://images.metahub.space/poster/medium/tt2357547/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt1043813",
+      "type": "series",
+      "name": "Titans (2018)",
+      "poster": "https://images.metahub.space/poster/medium/tt1043813/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt9140560",
+      "type": "series",
+      "name": "WandaVision",
+      "poster": "https://images.metahub.space/poster/medium/tt9140560/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt0452046",
+      "type": "series",
+      "name": "Criminal Minds",
+      "poster": "https://images.metahub.space/poster/medium/tt0452046/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt8416494",
+      "type": "series",
+      "name": "Doom Patrol",
+      "poster": "https://images.metahub.space/poster/medium/tt8416494/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt2149175",
+      "type": "series",
+      "name": "The Americans (2013)",
+      "poster": "https://images.metahub.space/poster/medium/tt2149175/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt1796960",
+      "type": "series",
+      "name": "Homeland",
+      "poster": "https://images.metahub.space/poster/medium/tt1796960/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt1358522",
+      "type": "series",
+      "name": "White Collar",
+      "poster": "https://images.metahub.space/poster/medium/tt1358522/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt0460627",
+      "type": "series",
+      "name": "Bones",
+      "poster": "https://images.metahub.space/poster/medium/tt0460627/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt1399664",
+      "type": "series",
+      "name": "The Night Manager",
+      "poster": "https://images.metahub.space/poster/medium/tt1399664/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt5114356",
+      "type": "series",
+      "name": "Legion",
+      "poster": "https://images.metahub.space/poster/medium/tt5114356/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt0364845",
+      "type": "series",
+      "name": "NCIS",
+      "poster": "https://images.metahub.space/poster/medium/tt0364845/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    }
+  ]
+}
