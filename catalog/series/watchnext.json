@@ -1,0 +1,464 @@
+{
+  "metas": [
+    {
+      "id": "tt0149460",
+      "type": "series",
+      "name": "Futurama",
+      "poster": "https://images.metahub.space/poster/medium/tt0149460/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt16358384",
+      "type": "series",
+      "name": "Tulsa King",
+      "poster": "https://images.metahub.space/poster/medium/tt16358384/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt2442560",
+      "type": "series",
+      "name": "Peaky Blinders",
+      "poster": "https://images.metahub.space/poster/medium/tt2442560/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt9288030",
+      "type": "series",
+      "name": "Reacher",
+      "poster": "https://images.metahub.space/poster/medium/tt9288030/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt33539520",
+      "type": "series",
+      "name": "Neagley",
+      "poster": "https://images.metahub.space/poster/medium/tt33539520/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt11198330",
+      "type": "series",
+      "name": "House of the Dragon",
+      "poster": "https://images.metahub.space/poster/medium/tt11198330/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt12590266",
+      "type": "series",
+      "name": "Cyberpunk: Edgerunners",
+      "poster": "https://images.metahub.space/poster/medium/tt12590266/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt14688458",
+      "type": "series",
+      "name": "Silo",
+      "poster": "https://images.metahub.space/poster/medium/tt14688458/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt13111078",
+      "type": "series",
+      "name": "Lioness",
+      "poster": "https://images.metahub.space/poster/medium/tt13111078/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt10986410",
+      "type": "series",
+      "name": "Ted Lasso",
+      "poster": "https://images.metahub.space/poster/medium/tt10986410/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt36594331",
+      "type": "series",
+      "name": "Star Wars: Maul \u2013 Shadow Lord",
+      "poster": "https://images.metahub.space/poster/medium/tt36594331/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt35854736",
+      "type": "series",
+      "name": "Avatar: Seven Havens",
+      "poster": "https://images.metahub.space/poster/medium/tt35854736/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt13146488",
+      "type": "series",
+      "name": "Peacemaker",
+      "poster": "https://images.metahub.space/poster/medium/tt13146488/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt6741278",
+      "type": "series",
+      "name": "Invincible",
+      "poster": "https://images.metahub.space/poster/medium/tt6741278/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt35934755",
+      "type": "series",
+      "name": "Below",
+      "poster": "https://images.metahub.space/poster/medium/tt35934755/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt23148340",
+      "type": "series",
+      "name": "Crystal Lake",
+      "poster": "https://images.metahub.space/poster/medium/tt23148340/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt19231492",
+      "type": "series",
+      "name": "Dark Matter (2024)",
+      "poster": "https://images.metahub.space/poster/medium/tt19231492/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt0903747",
+      "type": "series",
+      "name": "Breaking Bad",
+      "poster": "https://images.metahub.space/poster/medium/tt0903747/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt0773262",
+      "type": "series",
+      "name": "Dexter",
+      "poster": "https://images.metahub.space/poster/medium/tt0773262/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt2802850",
+      "type": "series",
+      "name": "Fargo",
+      "poster": "https://images.metahub.space/poster/medium/tt2802850/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt5071412",
+      "type": "series",
+      "name": "Ozark",
+      "poster": "https://images.metahub.space/poster/medium/tt5071412/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt1844624",
+      "type": "series",
+      "name": "American Horror Story",
+      "poster": "https://images.metahub.space/poster/medium/tt1844624/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt0944947",
+      "type": "series",
+      "name": "Game of Thrones",
+      "poster": "https://images.metahub.space/poster/medium/tt0944947/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt0411008",
+      "type": "series",
+      "name": "Lost",
+      "poster": "https://images.metahub.space/poster/medium/tt0411008/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt11958610",
+      "type": "series",
+      "name": "Trigger Point",
+      "poster": "https://images.metahub.space/poster/small/tt11958610/img",
+      "posterShape": "poster",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "imdbRating": "6.8",
+      "description": "Drama series following Lana Washington, an experienced bomb disposal officer working for the Metropolitan Police.",
+      "releaseInfo": "2022\u2013"
+    },
+    {
+      "id": "tt0096697",
+      "type": "series",
+      "name": "The Simpsons",
+      "poster": "https://images.metahub.space/poster/medium/tt0096697/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt27497393",
+      "type": "series",
+      "name": "Stuart Fails to Save the Universe",
+      "poster": "https://images.metahub.space/poster/medium/tt27497393/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt0472954",
+      "type": "series",
+      "name": "It's Always Sunny in Philadelphia",
+      "poster": "https://images.metahub.space/poster/medium/tt0472954/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt1312171",
+      "type": "series",
+      "name": "The Umbrella Academy",
+      "poster": "https://images.metahub.space/poster/medium/tt1312171/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt13159924",
+      "type": "series",
+      "name": "Gen V",
+      "poster": "https://images.metahub.space/poster/medium/tt13159924/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt27846061",
+      "type": "series",
+      "name": "Ludwig",
+      "poster": "https://images.metahub.space/poster/small/tt27846061/img",
+      "posterShape": "poster",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Drama"
+      ],
+      "imdbRating": "8.1",
+      "description": "While seeking to unravel the mystery of his twin brother's disappearance, reclusive puzzle-designer John 'Ludwig' Taylor takes on his twin brother James's identity as DCI on Cambridge's major crimes squad.",
+      "releaseInfo": "2024\u2013"
+    },
+    {
+      "id": "tt26591110",
+      "type": "series",
+      "name": "Elsbeth",
+      "poster": "https://images.metahub.space/poster/small/tt26591110/img",
+      "posterShape": "poster",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Drama"
+      ],
+      "imdbRating": "7.5",
+      "description": "Astute but unconventional attorney Elsbeth Tascioni utilizes her singular point of view to make unique observations and corner brilliant criminals alongside the NYPD.",
+      "releaseInfo": "2024\u2013"
+    },
+    {
+      "id": "tt18546730",
+      "type": "series",
+      "name": "The Walking Dead: Dead City",
+      "poster": "https://images.metahub.space/poster/small/tt18546730/img",
+      "posterShape": "poster",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "imdbRating": "7.0",
+      "description": "Maggie and Negan travel into a post-apocalyptic Manhattan long ago cut off from the mainland. The city is filled with the dead and denizens who have made New York City their own world.",
+      "releaseInfo": "2023\u2013"
+    },
+    {
+      "id": "tt2531336",
+      "type": "series",
+      "name": "Lupin",
+      "poster": "https://live.metahub.space/poster/small/tt2531336/img",
+      "posterShape": "poster",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "imdbRating": "7.5",
+      "description": "Inspired by the adventures of Ars\u00e8ne Lupin, gentleman thief Assane Diop sets out to avenge his father for an injustice inflicted by a wealthy family.",
+      "releaseInfo": "2021\u2013"
+    },
+    {
+      "id": "tt11743610",
+      "type": "series",
+      "name": "The Terminal List",
+      "poster": "https://images.metahub.space/poster/medium/tt11743610/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt10919420",
+      "type": "series",
+      "name": "Squid Game",
+      "poster": "https://images.metahub.space/poster/medium/tt10919420/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt36984433",
+      "type": "series",
+      "name": "S.W.A.T. Exiles",
+      "poster": "https://images.metahub.space/poster/medium/tt36984433/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt14824792",
+      "type": "series",
+      "name": "ted",
+      "poster": "https://images.metahub.space/poster/medium/tt14824792/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt33078239",
+      "type": "series",
+      "name": "Eternally Yours",
+      "poster": "https://images.metahub.space/poster/medium/tt33078239/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt11691774",
+      "type": "series",
+      "name": "Only Murders in the Building",
+      "poster": "https://images.metahub.space/poster/medium/tt11691774/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    }
+  ]
+}
