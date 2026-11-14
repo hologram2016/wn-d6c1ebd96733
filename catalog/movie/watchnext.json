@@ -1,0 +1,492 @@
+{
+  "metas": [
+    {
+      "id": "tt2015381",
+      "type": "movie",
+      "name": "Guardians of the Galaxy",
+      "poster": "https://images.metahub.space/poster/medium/tt2015381/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt3498820",
+      "type": "movie",
+      "name": "Captain America: Civil War",
+      "poster": "https://images.metahub.space/poster/medium/tt3498820/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt3501632",
+      "type": "movie",
+      "name": "Thor: Ragnarok",
+      "poster": "https://images.metahub.space/poster/medium/tt3501632/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt4154756",
+      "type": "movie",
+      "name": "Avengers: Infinity War",
+      "poster": "https://images.metahub.space/poster/medium/tt4154756/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt6263850",
+      "type": "movie",
+      "name": "Deadpool & Wolverine",
+      "poster": "https://images.metahub.space/poster/medium/tt6263850/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt0800369",
+      "type": "movie",
+      "name": "Thor",
+      "poster": "https://images.metahub.space/poster/medium/tt0800369/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt0458339",
+      "type": "movie",
+      "name": "Captain America: The First Avenger",
+      "poster": "https://images.metahub.space/poster/medium/tt0458339/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt1300854",
+      "type": "movie",
+      "name": "Iron Man 3",
+      "poster": "https://images.metahub.space/poster/medium/tt1300854/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt1981115",
+      "type": "movie",
+      "name": "Thor: The Dark World",
+      "poster": "https://images.metahub.space/poster/medium/tt1981115/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt0478970",
+      "type": "movie",
+      "name": "Ant-Man",
+      "poster": "https://images.metahub.space/poster/medium/tt0478970/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt1211837",
+      "type": "movie",
+      "name": "Doctor Strange",
+      "poster": "https://images.metahub.space/poster/medium/tt1211837/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt3896198",
+      "type": "movie",
+      "name": "Guardians of the Galaxy Vol. 2",
+      "poster": "https://images.metahub.space/poster/medium/tt3896198/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt2250912",
+      "type": "movie",
+      "name": "Spider-Man: Homecoming",
+      "poster": "https://images.metahub.space/poster/medium/tt2250912/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt1825683",
+      "type": "movie",
+      "name": "Black Panther",
+      "poster": "https://images.metahub.space/poster/medium/tt1825683/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt5095030",
+      "type": "movie",
+      "name": "Ant-Man and the Wasp",
+      "poster": "https://images.metahub.space/poster/medium/tt5095030/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt4154664",
+      "type": "movie",
+      "name": "Captain Marvel",
+      "poster": "https://images.metahub.space/poster/medium/tt4154664/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt6320628",
+      "type": "movie",
+      "name": "Spider-Man: Far from Home",
+      "poster": "https://images.metahub.space/poster/medium/tt6320628/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt3480822",
+      "type": "movie",
+      "name": "Black Widow",
+      "poster": "https://images.metahub.space/poster/medium/tt3480822/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt9376612",
+      "type": "movie",
+      "name": "Shang-Chi and the Legend of the Ten Rings",
+      "poster": "https://images.metahub.space/poster/medium/tt9376612/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt9419884",
+      "type": "movie",
+      "name": "Doctor Strange in the Multiverse of Madness",
+      "poster": "https://images.metahub.space/poster/medium/tt9419884/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt10648342",
+      "type": "movie",
+      "name": "Thor: Love and Thunder",
+      "poster": "https://images.metahub.space/poster/medium/tt10648342/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt9114286",
+      "type": "movie",
+      "name": "Black Panther: Wakanda Forever",
+      "poster": "https://images.metahub.space/poster/medium/tt9114286/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt6791350",
+      "type": "movie",
+      "name": "Guardians of the Galaxy Vol. 3",
+      "poster": "https://images.metahub.space/poster/medium/tt6791350/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt10676052",
+      "type": "movie",
+      "name": "The Fantastic Four: First Steps",
+      "poster": "https://images.metahub.space/poster/medium/tt10676052/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt3315342",
+      "type": "movie",
+      "name": "Logan",
+      "poster": "https://images.metahub.space/poster/medium/tt3315342/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt1431045",
+      "type": "movie",
+      "name": "Deadpool",
+      "poster": "https://images.metahub.space/poster/medium/tt1431045/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt10366206",
+      "type": "movie",
+      "name": "John Wick: Chapter 4",
+      "poster": "https://images.metahub.space/poster/medium/tt10366206/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt4701182",
+      "type": "movie",
+      "name": "Bumblebee",
+      "poster": "https://images.metahub.space/poster/medium/tt4701182/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt31227572",
+      "type": "movie",
+      "name": "Predator: Badlands",
+      "poster": "https://images.metahub.space/poster/small/tt31227572/img",
+      "posterShape": "poster",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "imdbRating": "7.2",
+      "description": "A young Predator outcast from his clan finds an unlikely ally on his journey in search of the ultimate adversary.",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt5950044",
+      "type": "movie",
+      "name": "Superman",
+      "poster": "https://images.metahub.space/poster/small/tt5950044/img",
+      "posterShape": "poster",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "imdbRating": "7.0",
+      "description": "Superman must reconcile his alien Kryptonian heritage with his human upbringing as reporter Clark Kent. As the embodiment of truth, justice and the American way he soon finds himself in a world that views these as old-fashioned.",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt1341338",
+      "type": "movie",
+      "name": "Good Luck, Have Fun, Don't Die",
+      "poster": "https://images.metahub.space/poster/small/tt1341338/img",
+      "posterShape": "poster",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "imdbRating": "7.0",
+      "description": "A \"Man From the Future\" arrives at a diner in Los Angeles where he must recruit the precise combination of disgruntled patrons to join him on a one-night quest to save the world from the terminal threat of a rogue artificial intel...",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt28014327",
+      "type": "movie",
+      "name": "Mayday",
+      "poster": "https://images.metahub.space/poster/small/tt28014327/img",
+      "posterShape": "poster",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "imdbRating": "6.8",
+      "description": "Lieutenant Troy Brennan's reconnaissance mission over Soviet territory goes awry, forcing him to crash-land and survive in Russian wilderness while evading capture or rescue.",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt20969586",
+      "type": "movie",
+      "name": "Thunderbolts*",
+      "poster": "https://images.metahub.space/poster/small/tt20969586/img",
+      "posterShape": "poster",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Crime"
+      ],
+      "imdbRating": "7.1",
+      "description": "After finding themselves ensnared in a death trap, an unconventional team of antiheroes must go on a dangerous mission that will force them to confront the darkest corners of their pasts.",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt7181546",
+      "type": "movie",
+      "name": "Ballerina",
+      "poster": "https://images.metahub.space/poster/small/tt7181546/img",
+      "posterShape": "poster",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Crime"
+      ],
+      "imdbRating": "6.8",
+      "description": "An assassin trained in the traditions of the Ruska Roma organization sets out to seek revenge after her father's death.",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt12042730",
+      "type": "movie",
+      "name": "Project Hail Mary",
+      "poster": "https://images.metahub.space/poster/small/tt12042730/img",
+      "posterShape": "poster",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Sci-Fi"
+      ],
+      "imdbRating": "8.2",
+      "description": "A science teacher wakes up alone on a spaceship. As his memory returns, he uncovers a mission to stop a mysterious substance killing Earth's sun, and realizes that an unexpected friendship may be the key.",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt36583977",
+      "type": "movie",
+      "name": "Forgotten Island",
+      "poster": "https://images.metahub.space/poster/small/tt36583977/img",
+      "posterShape": "poster",
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "imdbRating": "7.7",
+      "description": "Two best friends become stranded on the mystical world of Nakali, where their only escape might cost them their shared lifetime of memories.",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt35522483",
+      "type": "movie",
+      "name": "Nirvanna the Band the Show the Movie",
+      "poster": "https://images.metahub.space/poster/small/tt35522483/img",
+      "posterShape": "poster",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Sci-Fi"
+      ],
+      "imdbRating": "7.7",
+      "description": "When their plan to book a show at the Rivoli goes horribly wrong, Matt and Jay accidentally travel back to the year 2008.",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt33295741",
+      "type": "movie",
+      "name": "Redux Redux",
+      "poster": "https://images.metahub.space/poster/small/tt33295741/img",
+      "posterShape": "poster",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Crime"
+      ],
+      "imdbRating": "6.2",
+      "description": "Irene Kelly travels through parallel universes, repeatedly killing her daughter's murderer. As she becomes consumed by vengeance, her humanity hangs in the balance.",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt30017619",
+      "type": "movie",
+      "name": "The Bad Guys 2",
+      "poster": "https://images.metahub.space/poster/small/tt30017619/img",
+      "posterShape": "poster",
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "imdbRating": "7.0",
+      "description": "The Bad Guys are struggling to find trust and acceptance in their newly minted lives as Good Guys, when they are pulled out of retirement and forced to do \"one last job\" by an all-female squad of criminals.",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt27165187",
+      "type": "movie",
+      "name": "The End of Oak Street",
+      "poster": "https://images.metahub.space/poster/small/tt27165187/img",
+      "posterShape": "poster",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Mystery"
+      ],
+      "imdbRating": "6.5",
+      "description": "The Platt family bands together to navigate their new surroundings after a cosmic event transports their suburban neighborhood to someplace unknown.",
+      "releaseInfo": "2026"
+    }
+  ]
+}

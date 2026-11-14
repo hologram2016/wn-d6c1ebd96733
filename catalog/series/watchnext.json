@@ -1,0 +1,492 @@
+{
+  "metas": [
+    {
+      "id": "tt0200276",
+      "type": "series",
+      "name": "The West Wing",
+      "poster": "https://images.metahub.space/poster/medium/tt0200276/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt7660850",
+      "type": "series",
+      "name": "Succession",
+      "poster": "https://images.metahub.space/poster/medium/tt7660850/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt0149460",
+      "type": "series",
+      "name": "Futurama",
+      "poster": "https://images.metahub.space/poster/medium/tt0149460/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt33043892",
+      "type": "series",
+      "name": "Dexter: Resurrection",
+      "poster": "https://images.metahub.space/poster/medium/tt33043892/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt16358384",
+      "type": "series",
+      "name": "Tulsa King",
+      "poster": "https://images.metahub.space/poster/medium/tt16358384/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt33539520",
+      "type": "series",
+      "name": "Neagley",
+      "poster": "https://images.metahub.space/poster/medium/tt33539520/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt26598805",
+      "type": "series",
+      "name": "Nocturne",
+      "poster": "https://images.metahub.space/poster/medium/tt26598805/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt2442560",
+      "type": "series",
+      "name": "Peaky Blinders",
+      "poster": "https://images.metahub.space/poster/medium/tt2442560/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt0903747",
+      "type": "series",
+      "name": "Breaking Bad",
+      "poster": "https://images.metahub.space/poster/medium/tt0903747/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt9288030",
+      "type": "series",
+      "name": "Reacher",
+      "poster": "https://images.metahub.space/poster/medium/tt9288030/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt14688458",
+      "type": "series",
+      "name": "Silo",
+      "poster": "https://images.metahub.space/poster/medium/tt14688458/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt2531336",
+      "type": "series",
+      "name": "Lupin",
+      "poster": "https://live.metahub.space/poster/small/tt2531336/img",
+      "posterShape": "poster",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "imdbRating": "7.5",
+      "description": "Inspired by the adventures of Ars\u00e8ne Lupin, gentleman thief Assane Diop sets out to avenge his father for an injustice inflicted by a wealthy family.",
+      "releaseInfo": "2021\u2013"
+    },
+    {
+      "id": "tt35934755",
+      "type": "series",
+      "name": "Below",
+      "poster": "https://images.metahub.space/poster/medium/tt35934755/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt20883126",
+      "type": "series",
+      "name": "Red Queen",
+      "poster": "https://images.metahub.space/poster/small/tt20883126/img",
+      "posterShape": "poster",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "imdbRating": "6.8",
+      "description": "A gifted woman's intellect brings chance to lead covert European police force. But it backfires, costing her everything. Following murder at her home and kidnapped heiress, her ex-supervisor enlists a policeman's aid to reinstate ...",
+      "releaseInfo": "2024\u20132027"
+    },
+    {
+      "id": "tt23148340",
+      "type": "series",
+      "name": "Crystal Lake",
+      "poster": "https://images.metahub.space/poster/medium/tt23148340/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt12590266",
+      "type": "series",
+      "name": "Cyberpunk: Edgerunners",
+      "poster": "https://images.metahub.space/poster/medium/tt12590266/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt1844624",
+      "type": "series",
+      "name": "American Horror Story",
+      "poster": "https://images.metahub.space/poster/medium/tt1844624/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt27995113",
+      "type": "series",
+      "name": "Black Doves",
+      "poster": "https://images.metahub.space/poster/small/tt27995113/img",
+      "posterShape": "poster",
+      "genres": [
+        "Action",
+        "Drama",
+        "Mystery"
+      ],
+      "imdbRating": "7.2",
+      "description": "After her lover is murdered by members of London's underworld, a spy - who is publicly the wife of the British Defence Secretary - is protected by an old friend from their agency.",
+      "releaseInfo": "2024\u2013"
+    },
+    {
+      "id": "tt12637874",
+      "type": "series",
+      "name": "Fallout",
+      "poster": "https://images.metahub.space/poster/medium/tt12637874/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt16026746",
+      "type": "series",
+      "name": "X-Men '97",
+      "poster": "https://images.metahub.space/poster/medium/tt16026746/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt35854736",
+      "type": "series",
+      "name": "Avatar: Seven Havens",
+      "poster": "https://images.metahub.space/poster/medium/tt35854736/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt19231492",
+      "type": "series",
+      "name": "Dark Matter (2024)",
+      "poster": "https://images.metahub.space/poster/medium/tt19231492/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt37972251",
+      "type": "series",
+      "name": "WAR (2026)",
+      "poster": "https://images.metahub.space/poster/medium/tt37972251/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt10986410",
+      "type": "series",
+      "name": "Ted Lasso",
+      "poster": "https://images.metahub.space/poster/medium/tt10986410/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt40197357",
+      "type": "series",
+      "name": "Scrubs (2026)",
+      "poster": "https://images.metahub.space/poster/medium/tt40197357/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt2396135",
+      "type": "series",
+      "name": "Shetland",
+      "poster": "https://images.metahub.space/poster/small/tt2396135/img",
+      "posterShape": "poster",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "imdbRating": "8.3",
+      "description": "A local police team investigates crimes within the close-knit island community of Shetland.",
+      "releaseInfo": "2013\u2013"
+    },
+    {
+      "id": "tt0098844",
+      "type": "series",
+      "name": "Law & Order",
+      "poster": "https://images.metahub.space/poster/small/tt0098844/img",
+      "posterShape": "poster",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "imdbRating": "7.8",
+      "description": "A two-part drama that focuses on the New York criminal-justice system by showing a violent crime investigated by police detectives in the first half and then the trial of the accused in court by prosecutors in the second half.",
+      "releaseInfo": "1990\u2013"
+    },
+    {
+      "id": "tt16418808",
+      "type": "series",
+      "name": "Sugar",
+      "poster": "https://images.metahub.space/poster/small/tt16418808/img",
+      "posterShape": "poster",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "imdbRating": "7.4",
+      "description": "John Sugar is a dashing private eye navigating the dark corners of sunny LA. Though he sees only the good in humanity, Sugar is haunted by a secret too dangerous to expose.",
+      "releaseInfo": "2024\u2013"
+    },
+    {
+      "id": "tt20516590",
+      "type": "series",
+      "name": "Women in Blue",
+      "poster": "https://images.metahub.space/poster/small/tt20516590/img",
+      "posterShape": "poster",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "imdbRating": "7.3",
+      "description": "In 1971, four women defy convention and join Mexico's first female police force, only to discover it's a publicity stunt to distract the media from a serial killer. As the body count grows, they make a pact to bring the killer to ...",
+      "releaseInfo": "2024\u20132026"
+    },
+    {
+      "id": "tt33332385",
+      "type": "series",
+      "name": "Widow's Bay",
+      "poster": "https://images.metahub.space/poster/medium/tt33332385/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt27846061",
+      "type": "series",
+      "name": "Ludwig",
+      "poster": "https://images.metahub.space/poster/small/tt27846061/img",
+      "posterShape": "poster",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Drama"
+      ],
+      "imdbRating": "8.1",
+      "description": "While seeking to unravel the mystery of his twin brother's disappearance, reclusive puzzle-designer John 'Ludwig' Taylor takes on his twin brother James's identity as DCI on Cambridge's major crimes squad.",
+      "releaseInfo": "2024\u2013"
+    },
+    {
+      "id": "tt6741278",
+      "type": "series",
+      "name": "Invincible",
+      "poster": "https://images.metahub.space/poster/medium/tt6741278/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt0944947",
+      "type": "series",
+      "name": "Game of Thrones",
+      "poster": "https://images.metahub.space/poster/medium/tt0944947/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt10293938",
+      "type": "series",
+      "name": "Outer Banks",
+      "poster": "https://images.metahub.space/poster/small/tt10293938/img",
+      "posterShape": "poster",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Crime"
+      ],
+      "imdbRating": "7.5",
+      "description": "On North Carolina's Outer Banks, a tight-knit group of working-class teenagers known as the Pogues embark on dangerous treasure hunts, uncovering buried secrets, family mysteries, romance, and rivalries while fighting to stay toge...",
+      "releaseInfo": "2020\u20132026"
+    },
+    {
+      "id": "tt0460681",
+      "type": "series",
+      "name": "Supernatural",
+      "poster": "https://images.metahub.space/poster/medium/tt0460681/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt0411008",
+      "type": "series",
+      "name": "Lost",
+      "poster": "https://images.metahub.space/poster/medium/tt0411008/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt7631058",
+      "type": "series",
+      "name": "The Lord of the Rings: The Rings of Power",
+      "poster": "https://images.metahub.space/poster/small/tt7631058/img",
+      "posterShape": "poster",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "imdbRating": "6.8",
+      "description": "Epic drama set thousands of years before the events of J.R.R. Tolkien's 'The Hobbit' and 'The Lord of the Rings' follows an ensemble cast of characters, both familiar and new, as they confront the long-feared re-emergence of evil ...",
+      "releaseInfo": "2022\u2013"
+    },
+    {
+      "id": "tt31710249",
+      "type": "series",
+      "name": "Stick",
+      "poster": "https://images.metahub.space/poster/medium/tt31710249/img",
+      "posterShape": "poster",
+      "genres": [],
+      "imdbRating": null,
+      "description": "",
+      "releaseInfo": null
+    },
+    {
+      "id": "tt7235466",
+      "type": "series",
+      "name": "9-1-1",
+      "poster": "https://images.metahub.space/poster/small/tt7235466/img",
+      "posterShape": "poster",
+      "genres": [
+        "Action",
+        "Drama",
+        "Thriller"
+      ],
+      "imdbRating": "7.8",
+      "description": "Explores the personal &amp; professional lives of Los Angeles first responders who are thrust into the most shocking and heart-stopping situations, day after day.",
+      "releaseInfo": "2018\u2013"
+    },
+    {
+      "id": "tt4378376",
+      "type": "series",
+      "name": "Babylon Berlin",
+      "poster": "https://images.metahub.space/poster/small/tt4378376/img",
+      "posterShape": "poster",
+      "genres": [
+        "Crime",
+        "Drama",
+        "History"
+      ],
+      "imdbRating": "8.4",
+      "description": "Colognian commissioner Gereon Rath moves to Berlin, the epicenter of political and social changes in the Golden Twenties.",
+      "releaseInfo": "2017\u20132026"
+    }
+  ]
+}
